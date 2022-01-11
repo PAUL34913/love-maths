@@ -1,5 +1,7 @@
 JavaScript Mini-project (Simple Math Game)
 
+[live site here](https://paul34913.github.io/love-maths/)
+
 ## Gitpod Reminders
 
 To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
